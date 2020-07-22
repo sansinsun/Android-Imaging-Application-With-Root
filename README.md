@@ -34,7 +34,8 @@ dari file image yang dihasilkan dapat dilakukan analisis dengan menggunakan tool
 autopsy dan lain-lain
 
 modul yang harus di install :
-1. TkInter (https://riptutorial.com/tkinter/example/3206/installation-or-setup)
-2. pyadb3 (https://pypi.org/project/pyadb3/)
-3. pure python-adb (https://pypi.org/project/pure-python-adb/)
-4. adb (https://www.fosslinux.com/25170/how-to-install-and-setup-adb-tools-on-linux.htm)
+1. python3 (https://docs.python-guide.org/starting/install3/linux/)
+2. TkInter (https://riptutorial.com/tkinter/example/3206/installation-or-setup)
+3. pyadb3 (https://pypi.org/project/pyadb3/)
+4. pure python-adb (https://pypi.org/project/pure-python-adb/)
+5. adb (https://www.fosslinux.com/25170/how-to-install-and-setup-adb-tools-on-linux.htm)
