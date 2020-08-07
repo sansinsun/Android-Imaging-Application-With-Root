@@ -53,3 +53,4 @@ modul yang harus di install :
 3. pyadb3 (https://pypi.org/project/pyadb3/)
 4. pure python-adb (https://pypi.org/project/pure-python-adb/)
 5. adb (https://www.fosslinux.com/25170/how-to-install-and-setup-adb-tools-on-linux.htm)
+6. adbutils (https://pypi.org/project/adbutils/)
